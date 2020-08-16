@@ -1,0 +1,166 @@
+#header
+{
+    display: grid;
+    grid-template-columns: 2fr 5fr; /*To position the header img and header */
+    background-color: black;
+    color: white;
+}
+
+#image
+{
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+#name
+{
+    letter-spacing: 0.5em;
+    margin-top: 20px;
+}
+
+#desig
+{
+    letter-spacing: 0.2em;
+    margin-top: 30px;
+}
+
+#line
+{
+    width: 350px;
+    height: 7px;
+    background: grey;
+    margin-top: 10px;
+}
+
+#wrapper
+{
+    padding: 0px;
+}
+
+#edu
+{
+    background:grey;
+    padding: 10px;
+    color:black;
+    font-weight: bold;
+}
+
+#edu1
+{
+    text-align: justify;
+    margin-left: 0px;
+    color: white;
+}
+
+#proj
+{
+    background:grey;
+    padding: 10px;
+    color:black;
+    font-weight: bold;
+}
+
+#proj1
+{
+    text-align: justify;
+    margin-left: 0px;
+    color: white;
+}
+
+
+#hobb
+{
+    background:grey;
+    padding: 10px;
+    color:black;
+    font-weight: bold;
+    text-align: right;
+}
+
+#hobb1
+{
+    text-align: right;
+    margin-left: 0px;
+    color: white;
+}
+
+#education-hobbies
+{
+    display: grid;
+    grid-template-columns: 6.5fr 1.8fr; 
+}
+
+#right
+{
+padding: 0;
+margin: 0;
+text-align: right;
+}
+
+#aw
+{
+    background:grey;
+    padding: 10px;
+    color:black;
+    font-weight: bold;
+}
+
+#aw1
+{
+    text-align: justify;
+    margin-left: 0px;
+    color: white;
+}
+
+
+#sk
+{
+    background:grey;
+    padding: 10px;
+    color:black;
+    font-weight: bold;
+}
+
+#sk1
+{
+    text-align: justify;
+    margin-left: 0px;
+    color: white;
+}
+
+#cont
+{
+    background:grey;
+    padding: 10px;
+    color:black;
+    font-weight: bold;
+}
+
+#cont1
+{
+    text-align: justify;
+    margin-left: 0px;
+    color: white;
+}
+
+
+#lang
+{
+    background:grey;
+    padding: 10px;
+    color:black;
+    font-weight: bold;
+}
+
+#lang1
+{
+    text-align: justify;
+    margin-left: 0px;
+    color: white;
+}
+
+
+
