@@ -2,7 +2,7 @@
 
 "use strict";
 
-//for the scrolle feature 
+//for the scroll feature 
 window.addEventListener('scroll', () =>{
     const scrollable = document.documentElement.scrollHeight -window.innerHeight; //document - window
     const scrolled = window.scrollY; //how much we have scrolled
