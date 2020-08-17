@@ -11,7 +11,6 @@ window.addEventListener('scroll', () =>{
         alert('Bottom of the page');
     }
 
-
 });
 
 
@@ -33,9 +32,9 @@ toggleButton.on("click", function() {
 
 //for the hover feature
 toggleButton.hover(function() {
-    $(this).css("background-color", "blue");
+    $(this).css("background-color", "rgb(22, 11, 85)");
 }, function() {
-    $(this).css("background-color", "white");
+    $(this).css("background-color", "rgb(177, 19, 8)");
 
 });
 
